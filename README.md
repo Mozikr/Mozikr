@@ -21,7 +21,7 @@
 <br>
 <br>
 
-### :video_game: Skills
+### :scroll: CV
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
