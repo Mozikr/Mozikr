@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am a bachelor's degree holder in Computer Science at WSB Merito University in Wrocław with specialization in cloud application developer. I spend most of my time creating games in Unity Engine with emphasis on programming them. I am learning to program in C# but i also know Java and C++. I can write clean, optimal and efficient code. I know the Unity engine very well, I can use animations, UI, particle system, lighting system, sound system, the new Input system, import assets and configure them, handle 2D/3D graphics and much more. Ever since my childhood, I have cultivated a deep fascination for video games. Creating, playing, immersing myself in discussions about them, and avidly watching gaming content are my primary passions.
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
