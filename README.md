@@ -6,6 +6,7 @@
 <br>
 
 ### :video_game: Skills
+<p> Languages </p>
 
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
