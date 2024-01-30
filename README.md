@@ -22,6 +22,8 @@
 <br>
 
 ### :scroll: CV
+
+[Resume](https://drive.google.com/file/d/1iG7cSKDHiBTSIyg-stvrPF8kmMS0h9k3/view?usp=drive_link)
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
