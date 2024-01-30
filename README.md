@@ -8,7 +8,7 @@
 ### :video_game: Skills
 <p> Languages </p>
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
