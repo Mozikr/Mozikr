@@ -23,7 +23,7 @@
 
 ### :scroll: CV
 
-Click here to download [CV](https://drive.google.com/file/d/1iG7cSKDHiBTSIyg-stvrPF8kmMS0h9k3/view?usp=drive_link)
+Click here to download [CV](https://drive.google.com/file/d/1U5kJxZoWp4Mb7YIj0cueU7RmGQ2QcK9Z/view?usp=sharing)
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
