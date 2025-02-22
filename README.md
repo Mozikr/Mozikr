@@ -24,9 +24,9 @@
 ### :scroll: CV Unity Developer
 
 Click here to download [CV](https://drive.google.com/file/d/1e6WbLVbKghSBvcw5JePsSWVHICIEIqhC/view?usp=sharing)
-### :scroll: CV Java Developer
+### :scroll: CV IT
 
-Click here to download [CV](https://drive.google.com/file/d/1WFsdmhJnirATYpYop9rtG1MhQZ92R6zg/view?usp=sharing)
+Click here to download [CV](https://drive.google.com/file/d/1BY2v6D95NxSQv7dcswevulZOXKxl7dYU/view?usp=sharing)
 <!--
 **Mozikr/Mozikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
