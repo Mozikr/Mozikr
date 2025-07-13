@@ -21,7 +21,7 @@
 <br>
 <br>
 
-### :globe_with_meridians: My site: [https://mozikr.github.io](https://mozikr.github.io)
+### :globe_with_meridians: My site: [GO](https://mozikr.github.io)
 
 ### :scroll: CV Unity Developer
 
