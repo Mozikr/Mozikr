@@ -25,7 +25,7 @@
 
 ### :scroll: CV Unity Developer
 
-Click here to download [CV](https://drive.google.com/file/d/1m5GexpRYgtp3HFDrMdDr-UkESJCKfJIf/view?usp=drive_link)
+Click here to download [CV](https://drive.google.com/file/d/1V6K4GCiLtTZWaBp3EfGt3pTlpuUKH6R3/view?usp=sharing)
 ### :scroll: CV IT
 
 Click here to download [CV](https://drive.google.com/file/d/1BY2v6D95NxSQv7dcswevulZOXKxl7dYU/view?usp=sharing)
